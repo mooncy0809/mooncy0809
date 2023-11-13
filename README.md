@@ -195,7 +195,6 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
  
 </details>
 -->
-
 <br><br>
 ## Recent GitHub Activity ✅
 
